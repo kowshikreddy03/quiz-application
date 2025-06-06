@@ -26,3 +26,10 @@ This project helped me improve my skills in DOM manipulation, event handling, an
 
 Overall, this internship task enhanced my understanding of frontend development workflows and user-centric application design, preparing me to handle future projects involving interactive web technologies.
 
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/20e0e468-eb60-4dc7-aa06-b5ea7db692fe)
+
+![Image](https://github.com/user-attachments/assets/a2980759-76e0-4e87-8477-64b5371c852c)
+
+![Image](https://github.com/user-attachments/assets/879a8406-a6c9-4153-b164-1ee4d7bb293a)
